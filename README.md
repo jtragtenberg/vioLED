@@ -1,7 +1,7 @@
 # vioLED
 A guitar with LEDs on its frets
 
-This instrument was developed by João Tragtenberg, Filipe Calegario from Batebit Artesania Digital in partnership with the string instruments luthier Rodrigo Veras (https://corpodusom.blogspot.com/) and the company Daccord Music Software as a first prototype for a acoustic guitar connected to a mobile app for educational purpuses.
+This instrument was developed by João Tragtenberg, Filipe Calegario from Batebit Artesania Digital (https://batebit.cc) in partnership with the string instruments luthier Rodrigo Veras (https://corpodusom.blogspot.com/) and the company Daccord Music Software (https://www.daccord.com.br/) as a first prototype for a acoustic guitar connected to a mobile app for educational purpuses.
 
 ![Rodrigo his father and myself finishing the guitar](/Media/IMG_1703.JPG)
 Rodrigo his father and myself finishing the guitar
