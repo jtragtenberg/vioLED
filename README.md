@@ -15,5 +15,5 @@ vioLED shining back to its maker Rodrigo Veras
 ![Full lights in João's workshop](Media/IMG_1745.JPG)
 Full lights in João's workshop
 
-![Example of chord progression mode](Media/IMG_1746.JPG  | width=100) ![Example of chord progression mode](Media/IMG_1747.JPG | width=100)
+![Example of chord progression mode](Media/IMG_1746.JPG) ![Example of chord progression mode](Media/IMG_1747.JPG)
 Example of chord progression mode
